@@ -51,10 +51,10 @@ void Product::SetUpdateProduct() { //method to update product
 
                 outFile << newDescription << endl; // adding new description to file
                 outFile << newPrice << endl; // adding new price amount to file
-                outFile << newQuantity << endl; //adding new quantity to file
+                outFile << newQuantity; //adding new quantity to file
                 outFile << endl;
 
-                SkipLines(readFile, 2); // skip the lines with the outdated data
+                SkipLines(readFile, 3); // skip the lines with the outdated data
 
             }
             else {
