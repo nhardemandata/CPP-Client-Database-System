@@ -34,7 +34,7 @@ A C++ database-driven management system designed to streamline operations for a 
 ## 🧑‍💻 Authors
 
 - **Nolan Hardeman**  
-  [GitHub](https://github.com/nhardemandata) | [LinkedIn](https://www.linkedin.com/in/your-link)
+  [GitHub](https://github.com/nhardemandata) | [LinkedIn](https://www.linkedin.com/in/datascientistnolan/)
 
 - **Mary Huh**
 
