@@ -51,5 +51,6 @@ A C++ database-driven management system designed to streamline operations for a 
 ```bash
 g++ mainWeldingCentral.cpp client.cpp salesrep.cpp product.cpp sales.cpp -o WeldingCentral
 ./WeldingCentral
+```
 
 ---
